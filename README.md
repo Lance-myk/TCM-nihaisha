@@ -83,7 +83,7 @@
 **捐赠二维码（微信）**
 
 <p align="left">
-    <img src="img/1.png" alt="支付宝捐赠二维码" width="30%"/>
+    <img src="img/1.png" alt="支付宝捐赠二维码" width="50%"/>
 </p>
 
 ❤️ 随心捐赠、无关金额，万分感谢每一位支持者！
