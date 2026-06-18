@@ -77,6 +77,7 @@
 ### 🚀 智能学习助手（基于全套资源开发）
 
 🔥 **NiHaisha-Agent** - 倪海厦资源专属AI智能助手
+
 👉 项目地址：https://github.com/Lance-myk/NiHaisha-Agent
 
 💡  体验网址（免费）：[https://39.170.44.216:8088](https://39.170.44.216:8088/)
